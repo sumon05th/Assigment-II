@@ -1,9 +1,13 @@
 # DSA Assigment-II
 Submitted by:- Sumon Kumar Das
+
 Scholar Id- 2012069
+
 CSE Sec-A
-Course code: CS201
-National Institute of Technology, Silchar
+
+
+# National Institute of Technology, Silchar
+
 
 Questions:- Assignment II CS-201 Data Structures
 
